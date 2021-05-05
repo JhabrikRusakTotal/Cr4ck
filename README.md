@@ -1,12 +1,6 @@
 # Cr4ck
 Cr4ck multi brute force
 
-<h1 align="center">
-    ðŸ’€Cr4ckðŸ’€
-</h1>
-<h4 align="center">
-  ðŸ‡®ðŸ‡©TRICKER INDONESIAðŸ‡®ðŸ‡©
-
 ### Fitures
 ```
 * Crack ID Grub
@@ -26,7 +20,7 @@ $ git clone https://github.com/JhabrikRusakTotal/Cr4ck
 ```bash
 $ cd Cr4ck
 $ bash setup.sh
-$ python Cr4ck.py
+$ python Cr4ck_Faceb00k.py
 ```
 * Notice Me : Please Don't Change Name Author
 Thanks For Using My Script
